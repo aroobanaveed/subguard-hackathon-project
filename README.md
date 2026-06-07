@@ -1,6 +1,4 @@
 # subguard-hackathon-project
-Arooba, yeh lein README.md file ka bilkul clean, plain text format jismein koi extra symbols ya asterisks nahi hain. Aap isay as it is copy kar ke apni file mein save kar sakti hain:
-
 # Smart Subscription Guard (SubGuard)
 
 An Enterprise Financial Operations Dashboard for Intelligent Subscription Management
